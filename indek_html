@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>prifile saya - ramadhani</title>
+      <link rel="stylesheet"href="style css.">
+</head>
+<body>
+      <div class="kartu profile">
+      <img src="foto-profile.jpg'alt="foto profile saya">
+      <h1>muhammad khiba ramadhani</h1>
+      <p>siswa sma yang tertarik dengan teknologi dan desain.selamat datang di website pertama saya!</p>
+      <a href="http://www.instagram.com/usernameanda">kunjungi instagram saya</a>
+      <button id="sapaButton">sapa saya!</button>
